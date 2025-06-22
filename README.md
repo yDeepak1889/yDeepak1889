@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Deepak!
 
-<!--
-**yDeepak1889/yDeepak1889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭  I’m currently working as a Senior SDE at Amazon.
 
-Here are some ideas to get you started:
+## Connect with me: 
+<p align="left">
+<a href="https://linkedin.com/in/deeepakyadav1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="deeepakyadav1997" height="30" width="40" /></a>
+<a href="https://fb.com/yDeepak1889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="yDeepak1889" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yDeepak1889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yDeepak1889" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yDeepak1889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="yDeepak1889" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yDeepak1889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="yDeepak1889" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats 📊
+<div align="center">
+<img alt="yDeepak1889's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yDeepak1889&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDeepak1889&layout=compact&&langs_count=8"/>
+</div>
