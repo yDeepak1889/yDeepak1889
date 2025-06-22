@@ -13,6 +13,7 @@
 
 ## GitHub Stats 📊
 <div align="center">
-<img alt="yDeepak1889's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yDeepak1889&hide_rank=true&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDeepak1889&layout=compact&&langs_count=8"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yDeepak1889&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yDeepak1889's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDeepak1889&layout=compact&theme=buefy&hide_border=true" />
+
 </div>
